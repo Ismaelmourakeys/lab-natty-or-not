@@ -1,35 +1,26 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Qual a melhor escolha de gerenciamento de pacotes do node.js? Npm, Yarn ou PNPM? 
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criei um vídeo usando a IA passando dicas de qual o melhor gerenciador de pacotes do node.js para determinado projeto. Com isso, explico as experiências que tive com os pacotes e pesquisas explicando com mais detalhes qual deles oferecem uma melhor performance, assim ajudando os desenvolvedores que estão conhecendo o node.js, a saberem o que cada um oferecem de recursos.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+A primeira IA utilizado foi Gemini IA para criar um avatar em forma de desenho baseado em uma foto minha.
+
+Segunda IA foi o Chatgpt, para me ajudar a elaborar um roteiro e corrigir possíveis erros de escrita.
+
+Terceira IA foi o HeyGen, para dar vida ao meu avatar e passar para ele o roteiro que criei, onde foi escolhida a voz do avatar e seus movimentos.
+
+Quarta IA foi do Capcut, onde me permitiu legendar o vídeo, e deixar mais interessante de assistir. 
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O primeiro processo foi em criar um roteiro, então usei o Chatgpt para me ajudar elaborar um texto técnico contendo algumas experiências com minhas palavras, e fazer correções de possíveis erros no script.
+
+No segundo passo, eu testei todos os tipos de IAs generativas que foram mostrados na aulas, para poder fazer esse meu avatar ter uma animação mais fluída,e o que me trouxe um melhor resultado foi o HeyGen, permitindo o meu avatar a ter movimentos e expressões mais fiel ao humano.
+
+No terceiro passo, 
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
@@ -37,15 +28,3 @@ Apresente os resultados do seu projeto
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
 ```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
