@@ -18,12 +18,11 @@ Quarta IA foi do Capcut, onde me permitiu legendar o vídeo, e deixar mais inter
 ## 🧐 Processo de Criação
 O primeiro processo foi em criar um roteiro, então usei o Chatgpt para me ajudar elaborar um texto técnico contendo algumas experiências com minhas palavras, e fazer correções de possíveis erros no script.
 
-No segundo passo, eu testei todos os tipos de IAs generativas que foram mostrados na aulas, para poder fazer esse meu avatar ter uma animação mais fluída,e o que me trouxe um melhor resultado foi o HeyGen, permitindo o meu avatar a ter movimentos e expressões mais fiel ao humano.
+No segundo passo, eu testei todos os tipos de IAs generativas que foram mostrados na aulas, para poder fazer esse meu avatar ter uma animação mais fluída,e o que me trouxe um melhor resultado foi o HeyGen, permitindo o meu avatar a ter movimentos e expressões mais realista.
 
-No terceiro passo, 
+No terceiro passo, foi usar o vídeo que o HeyGen gerou, e usar no Capcut para editar e adicionar legendas automática através da IA presente no app.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
