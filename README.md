@@ -23,7 +23,11 @@ No segundo passo, eu testei todos os tipos de IAs generativas que foram mostrado
 No terceiro passo, foi usar o vídeo que o HeyGen gerou, e usar no Capcut para editar e adicionar legendas automática através da IA presente no app.
 
 ## 🚀 Resultados
+Esse foi o resultado do projeto
+https://youtube.com/shorts/xJ-0LcEYtkY?si=l5fwWJU8AF14-yLp
 
+postei no YouTube, para concluir o curso, mas vou fazer uma edição mais elaborada e aproveitar para usar como post no LinkedIn. 😄
+ 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Esse desafio foi muito importante para conhecer como funciona as IAs na prática, e me mostrou como é divertido e satisfatório os resultados que essas ferramentas oferecem.
 ```
